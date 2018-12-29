@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MajerMonika/27.3.ReduxAction/issues"
   },
-  "homepage": "https://github.com/MajerMonika/27.3.ReduxAction#readme"
+  "homepage": "https://github.com/MajerMonika/27.3.ReduxAction#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
 }
